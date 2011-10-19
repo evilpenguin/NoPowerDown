@@ -1,0 +1,9 @@
+Package: us.nakedproductions.nopowerdown
+Name: NoPowerDown
+Depends: mobilesubstrate
+Version: 0.9.1
+Architecture: iphoneos-arm
+Description: An Alert when "slide to powerdown" for tethered jailbreaks
+Maintainer: EvilPenguin
+Author: EvilPenguin
+Section: Tweaks
